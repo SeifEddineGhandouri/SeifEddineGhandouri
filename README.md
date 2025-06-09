@@ -1,22 +1,24 @@
 <h1 align="center">Hey 👋, I'm Seif Eddine Ghandouri</h1>
-<h3 align="center">🇹🇳 Tunisian Computer Engineer | Passionate about Cybersecurity, Development, and Innovation 🚀</h3>
+
+<h3 align="center">🇹🇳 Tunisian Computer Engineer | Cybersecurity Enthusiast | Full-Stack Dev 🚀</h3>
 
 ---
 
 ## 💫 About Me
 
-🎓 I'm a Computer Engineering student and certified Network/System Technician  
-💡 I enjoy building secure systems, solving tech challenges, and creating digital content  
-🔥 Currently exploring bug bounty, ethical hacking, and open-source contributions  
-📚 Always learning and pushing the limits in tech, especially cybersecurity & full-stack development  
+🎓 Computer Engineering graduate & certified Network/System Technician  
+🔐 Passionate about cybersecurity, ethical hacking & secure system design  
+🛠️ Building cool projects, solving tech puzzles, and contributing to open source  
+🚀 Currently exploring bug bounty, EVE-NG labs & cloud infrastructure  
+📚 Lifelong learner focused on IT, networks & modern development stacks  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-eddine-ghandouri/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SeifEddineGhandouri)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@seifeddineghandouri02)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-eddine-ghandouri/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SeifEddineGhandouri)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@seifeddineghandouri02)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifghandouri3@gmail.com)
 
 ---
@@ -48,6 +50,18 @@
 
 ---
 
+## 👾 Contribution Activity (Pac-Man Style)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeifEddineGhandouri/SeifEddineGhandouri/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeifEddineGhandouri/SeifEddineGhandouri/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/SeifEddineGhandouri/SeifEddineGhandouri/output/pacman-contribution-graph.svg">
+</picture>
+
+> **📝 Note:** For this graph to appear, you must generate the Pacman animation using [maurodesouza/github-contribution-graph-generator](https://github.com/maurodesouza/github-contribution-graph-generator) and push it to your repo under the `output/` directory.
+
+---
+
 ## 🔗 Quick Links
 
 <p align="center">
@@ -63,9 +77,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=SeifEddineGhandouri&icon=0&color=0" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
