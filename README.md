@@ -1,5 +1,7 @@
 # 💫 About Me:
-<h1>Tunisian computer engineer with a strong passion<h1>
+<h1>Tunisian computer engineer with a strong passion 👋 <h1>
+
+![Uploading pic.png…]()
 
 
 ## 🌐 Socials:
