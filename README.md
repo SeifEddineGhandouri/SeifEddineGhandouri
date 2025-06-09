@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1>Tunisian computer engineer with a strong passion 👋 <h1>
-![Image](https://github.com/user-attachments/assets/4aca26fd-68d8-47c9-8fe7-1edf68b4479a)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seif-eddine-ghandouri/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@seifeddineghandouri02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@SeifEddineGhandouri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seifghandouri3@gmail.com) 
