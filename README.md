@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Seif Eddine Ghandouri</h1>
 
-<h3 align="center">🇹🇳 Tunisian Computer Engineer | Cybersecurity Enthusiast | Full-Stack Dev 🚀</h3>
+<h3 align="center">🇹🇳 Tunisian Computer Engineer | Cybersecurity Enthusiast  🚀</h3>
 
 ---
 
@@ -72,8 +72,4 @@
 
 ---
 
-## 📈 Visitor Count
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SeifEddineGhandouri&icon=0&color=0" />
-</p>
