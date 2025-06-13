@@ -52,11 +52,7 @@
 
 ## 👾 Contribution Activity (Pac-Man Style)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeifEddineGhandouri/SeifEddineGhandouri/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeifEddineGhandouri/SeifEddineGhandouri/output/pacman-contribution-graph.svg">
 
-</picture>
 
 > **📝 Note:** For this graph to appear, you must generate the Pacman animation using [maurodesouza/github-contribution-graph-generator](https://github.com/maurodesouza/github-contribution-graph-generator) and push it to your repo under the `output/` directory.
 
