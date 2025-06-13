@@ -27,13 +27,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SeifEddineGhandouri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-> **📝 Note:** For this graph to appear, you must generate the Pacman animation using [maurodesouza/github-contribution-graph-generator](https://github.com/maurodesouza/github-contribution-graph-generator) and push it to your repo under the `output/` directory.
 
----
 
 
 
