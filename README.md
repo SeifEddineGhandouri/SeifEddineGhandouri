@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00aaff,100:ff6b6b&height=120&section=header&text=SEIF%20EDDINE%20GHANDOURI&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 <h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🛡️+Cybersecurity+Engineer;🕵️+Ethical+Hacker;💻+Full-Stack+Developer;🤖+AI+Security+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🛡️+Cybersecurity+Engineer;🕵️+Ethical+Hacker;🤖+AI+Security+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <!-- Animated Profile Metrics -->
